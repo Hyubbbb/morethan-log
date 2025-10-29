@@ -11,10 +11,11 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      // name: `협무암`,
-      // href: "https://github.com/morethanmin/morethan-log",
-    },
+    // 나중에 Projects 추가 시 아래 주석을 해제하세요
+    // {
+    //   name: `협무암`,
+    //   href: "https://github.com/morethanmin/morethan-log",
+    // },
   ],
   // blog setting (required)
   blog: {
