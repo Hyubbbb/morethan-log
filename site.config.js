@@ -5,10 +5,10 @@ const CONFIG = {
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ML Engineer",
     bio: "패션 업계에서 머신러닝을 합니다.",
-    email: "hyub@yonsei.ac.kr",
-    linkedin: "https://www.linkedin.com/in/hyubkim/",
-    github: "https://github.com/Hyubbbb",
-    instagram: "",
+    Email: "hyub@yonsei.ac.kr",
+    LinkedIn: "https://www.linkedin.com/in/hyubkim/",
+    GitHub: "https://github.com/Hyubbbb",
+    Instagram: "",
   },
   projects: [
     // 나중에 Projects 추가 시 아래 주석을 해제하세요
@@ -28,7 +28,7 @@ const CONFIG = {
   link: "https://hyub.vercel.app/",
   since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "../public/og-image.png",
 
   // notion configuration (required)
   notionConfig: {

@@ -16,9 +16,9 @@ const ContactCard: React.FC = () => {
         <Emoji>💬</Emoji> Contact
       </StyledTitle>
       <StyledWrapper>
-        {CONFIG.profile.github && (
+        {CONFIG.profile.GitHub && (
           <a
-            href={`https://github.com/${CONFIG.profile.github}`}
+            href={`https://github.com/${CONFIG.profile.GitHub}`}
             rel="noreferrer"
             target="_blank"
           >
@@ -26,9 +26,9 @@ const ContactCard: React.FC = () => {
             <div className="name">github</div>
           </a>
         )}
-        {CONFIG.profile.instagram && (
+        {CONFIG.profile.Instagram && (
           <a
-            href={`https://www.instagram.com/${CONFIG.profile.instagram}`}
+            href={`https://www.instagram.com/${CONFIG.profile.Instagram}`}
             rel="noreferrer"
             target="_blank"
           >
@@ -36,9 +36,9 @@ const ContactCard: React.FC = () => {
             <div className="name">instagram</div>
           </a>
         )}
-        {CONFIG.profile.email && (
+        {CONFIG.profile.Email && (
           <a
-            href={`mailto:${CONFIG.profile.email}`}
+            href={`mailto:${CONFIG.profile.Email}`}
             rel="noreferrer"
             target="_blank"
             css={{ overflow: "hidden" }}
@@ -47,9 +47,9 @@ const ContactCard: React.FC = () => {
             <div className="name">email</div>
           </a>
         )}
-        {CONFIG.profile.linkedin && (
+        {CONFIG.profile.LinkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${CONFIG.profile.linkedin}`}
+            href={`https://www.linkedin.com/in/${CONFIG.profile.LinkedIn}`}
             rel="noreferrer"
             target="_blank"
           >
