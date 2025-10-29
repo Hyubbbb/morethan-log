@@ -6,8 +6,8 @@ const CONFIG = {
     role: "ML Engineer",
     bio: "패션 업계에서 머신러닝을 합니다.",
     Email: "hyub@yonsei.ac.kr",
-    LinkedIn: "https://www.linkedin.com/in/hyubkim/",
-    GitHub: "https://github.com/Hyubbbb",
+    LinkedIn: "hyubkim",
+    GitHub: "Hyubbbb",
     Instagram: "",
   },
   projects: [
