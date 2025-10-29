@@ -10,12 +10,12 @@ const CONFIG = {
     github: "https://github.com/Hyubbbb",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `협무암`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      // name: `협무암`,
+      // href: "https://github.com/morethanmin/morethan-log",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "협무암",
