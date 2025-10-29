@@ -4,28 +4,28 @@ const CONFIG = {
     name: "Hyub Kim",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ML Engineer",
-    bio: "최적화와 자동화를 합니다.",
+    bio: "패션 업계에서 머신러닝을 합니다.",
     email: "hyub@yonsei.ac.kr",
-    linkedin: "hyubkim",
-    github: "hyubkim",
+    linkedin: "https://www.linkedin.com/in/hyubkim/",
+    github: "https://github.com/Hyubbbb",
     instagram: "",
   },
-  projects: [
-    {
-      name: `협무암`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `협무암`,
+  //     href: "https://github.com/morethanmin/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "협무암",
-    description: "welcome to morethan-log!",
+    description: "패션 업계에서 머신러닝을 합니다.",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://hyub.vercel.app/",
+  since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
