@@ -28,7 +28,7 @@ const CONFIG = {
   link: "https://hyub.vercel.app/",
   since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "../public/og-image.png",
+  ogImageGenerateURL: "/og-image.png",
 
   // notion configuration (required)
   notionConfig: {
